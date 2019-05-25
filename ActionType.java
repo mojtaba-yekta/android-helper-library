@@ -7,4 +7,6 @@ public enum ActionType {
     IsLogin ,
     @SerializedName("1")
     Logout ,
+    @SerializedName("2")
+    Login,
 }
